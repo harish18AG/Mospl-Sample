@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1080599335769",
+    "firebase_url": "https://mosplsample-default-rtdb.firebaseio.com",
+    "project_id": "mosplsample",
+    "storage_bucket": "mosplsample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080599335769:android:f9135c978eee4918763248",
+        "android_client_info": {
+          "package_name": "com.example.mospl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqyL6YDTX78xEOdm8wi1Oi_83oT0vtt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080599335769:android:5a03b5cead532e36763248",
+        "android_client_info": {
+          "package_name": "mospl.sample.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqyL6YDTX78xEOdm8wi1Oi_83oT0vtt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

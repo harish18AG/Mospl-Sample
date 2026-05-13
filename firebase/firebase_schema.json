@@ -1,0 +1,306 @@
+
+{
+  "collections": {
+    "users": {
+      "description": "User accounts and profiles",
+      "document_id": "firebase_auth_uid",
+      "fields": {
+        "name": "string",
+        "email": "string",
+        "phone": "string",
+        "profileImage": "string | null",
+        "role": "string (user | admin)",
+        "addresses": "array<Address>",
+        "rewardPoints": "number",
+        "preferences": {
+          "notifications": "boolean",
+          "newsletter": "boolean",
+          "aiRecommendations": "boolean",
+          "darkMode": "boolean",
+          "language": "string"
+        },
+        "referralCode": "string | null",
+        "isActive": "boolean",
+        "createdAt": "timestamp",
+        "updatedAt": "timestamp"
+      },
+      "subcollections": {}
+    },
+
+    "products": {
+      "description": "Leather product catalog",
+      "document_id": "auto_generated",
+      "fields": {
+        "name": "string",
+        "shortDescription": "string",
+        "longDescription": "string",
+        "categoryId": "string (ref: categories)",
+        "categoryName": "string",
+        "originalPrice": "number",
+        "offerPrice": "number",
+        "discountPercentage": "number",
+        "images": "array<string (url)>",
+        "rating": "number (0-5)",
+        "reviewCount": "number",
+        "stockCount": "number",
+        "availableColors": "array<string>",
+        "availableSizes": "array<string>",
+        "brand": "string",
+        "sku": "string",
+        "deliveryInfo": {
+          "freeDelivery": "boolean",
+          "standardDays": "number",
+          "standardCharge": "number",
+          "expressDays": "number",
+          "expressCharge": "number"
+        },
+        "tags": "array<string>",
+        "isFeatured": "boolean",
+        "isNewArrival": "boolean",
+        "isBestSeller": "boolean",
+        "isTrending": "boolean",
+        "specifications": "map<string, string>",
+        "createdAt": "timestamp",
+        "updatedAt": "timestamp"
+      }
+    },
+
+    "categories": {
+      "description": "Product categories",
+      "fields": {
+        "name": "string",
+        "description": "string",
+        "imageUrl": "string",
+        "icon": "string (emoji)",
+        "productCount": "number",
+        "sortOrder": "number",
+        "isActive": "boolean",
+        "slug": "string"
+      }
+    },
+
+    "orders": {
+      "description": "Customer orders",
+      "fields": {
+        "userId": "string (ref: users)",
+        "userName": "string",
+        "items": "array<OrderItem>",
+        "subtotal": "number",
+        "deliveryCharge": "number",
+        "discount": "number",
+        "total": "number",
+        "paymentMethod": "string (upi|card|netbanking|cod|wallet)",
+        "paymentStatus": "string (pending|paid|failed|refunded)",
+        "orderStatus": "string (placed|confirmed|processing|shipped|out_for_delivery|delivered|cancelled|returned)",
+        "shippingAddress": "Address",
+        "couponCode": "string | null",
+        "trackingId": "string",
+        "statusHistory": "array<StatusHistory>",
+        "estimatedDelivery": "timestamp",
+        "rewardPointsEarned": "number",
+        "cancelReason": "string | null",
+        "returnReason": "string | null",
+        "createdAt": "timestamp",
+        "updatedAt": "timestamp"
+      }
+    },
+
+    "cart": {
+      "description": "User cart (one doc per user)",
+      "document_id": "user_id",
+      "fields": {
+        "items": "array<CartItem>",
+        "updatedAt": "timestamp"
+      }
+    },
+
+    "wishlist": {
+      "description": "User wishlist (one doc per user)",
+      "document_id": "user_id",
+      "fields": {
+        "productIds": "array<string>",
+        "updatedAt": "timestamp"
+      }
+    },
+
+    "reviews": {
+      "description": "Product reviews",
+      "fields": {
+        "productId": "string (ref: products)",
+        "userId": "string (ref: users)",
+        "userName": "string",
+        "userImage": "string | null",
+        "rating": "number (1-5)",
+        "title": "string",
+        "comment": "string",
+        "images": "array<string>",
+        "isVerifiedPurchase": "boolean",
+        "helpfulCount": "number",
+        "isApproved": "boolean",
+        "createdAt": "timestamp"
+      }
+    },
+
+    "coupons": {
+      "description": "Discount coupons",
+      "fields": {
+        "code": "string (unique)",
+        "title": "string",
+        "description": "string",
+        "discountType": "string (flat|percentage)",
+        "discountValue": "number",
+        "minOrderValue": "number",
+        "maxDiscount": "number",
+        "usageLimit": "number",
+        "usedCount": "number",
+        "usedBy": "array<string (userId)>",
+        "expiryDate": "timestamp",
+        "isActive": "boolean",
+        "applicableCategories": "array<string>"
+      }
+    },
+
+    "banners": {
+      "description": "Homepage promotional banners",
+      "fields": {
+        "title": "string",
+        "subtitle": "string",
+        "imageUrl": "string",
+        "actionUrl": "string",
+        "buttonText": "string",
+        "isActive": "boolean",
+        "sortOrder": "number",
+        "startDate": "timestamp | null",
+        "endDate": "timestamp | null"
+      }
+    },
+
+    "notifications": {
+      "description": "User notifications",
+      "fields": {
+        "userId": "string (ref: users)",
+        "title": "string",
+        "body": "string",
+        "type": "string (order|offer|system|review|delivery)",
+        "actionUrl": "string | null",
+        "isRead": "boolean",
+        "createdAt": "timestamp"
+      }
+    },
+
+    "support": {
+      "description": "Customer support tickets",
+      "fields": {
+        "userId": "string",
+        "userName": "string",
+        "orderId": "string | null",
+        "subject": "string",
+        "message": "string",
+        "status": "string (open|in_progress|resolved|closed)",
+        "priority": "string (low|medium|high)",
+        "messages": "array<SupportMessage>",
+        "createdAt": "timestamp",
+        "updatedAt": "timestamp"
+      }
+    },
+
+    "analytics": {
+      "description": "App analytics and metrics",
+      "document_id": "date (YYYY-MM-DD)",
+      "fields": {
+        "date": "string",
+        "revenue": "number",
+        "orders": "number",
+        "newUsers": "number",
+        "activeUsers": "number",
+        "productViews": "map<productId, number>",
+        "categoryViews": "map<categoryId, number>",
+        "searchQueries": "array<string>",
+        "conversionRate": "number"
+      }
+    },
+
+    "activity_logs": {
+      "description": "User activity logs",
+      "fields": {
+        "userId": "string",
+        "action": "string",
+        "details": "map",
+        "ip": "string",
+        "device": "string",
+        "timestamp": "timestamp"
+      }
+    },
+
+    "tracking": {
+      "description": "Order tracking info",
+      "document_id": "order_id",
+      "fields": {
+        "orderId": "string",
+        "trackingId": "string",
+        "carrier": "string",
+        "currentLocation": "string",
+        "events": "array<TrackingEvent>",
+        "estimatedDelivery": "timestamp",
+        "updatedAt": "timestamp"
+      }
+    }
+  },
+
+  "data_types": {
+    "Address": {
+      "id": "string",
+      "name": "string",
+      "phone": "string",
+      "line1": "string",
+      "line2": "string | null",
+      "city": "string",
+      "state": "string",
+      "pincode": "string",
+      "type": "string (home|work|other)",
+      "isDefault": "boolean"
+    },
+    "OrderItem": {
+      "productId": "string",
+      "productName": "string",
+      "productImage": "string",
+      "price": "number",
+      "quantity": "number",
+      "selectedColor": "string | null",
+      "selectedSize": "string | null"
+    },
+    "CartItem": {
+      "id": "string",
+      "productId": "string",
+      "productName": "string",
+      "productImage": "string",
+      "price": "number",
+      "quantity": "number",
+      "selectedColor": "string | null",
+      "selectedSize": "string | null",
+      "maxStock": "number"
+    },
+    "StatusHistory": {
+      "status": "string",
+      "message": "string",
+      "timestamp": "timestamp"
+    },
+    "TrackingEvent": {
+      "location": "string",
+      "status": "string",
+      "description": "string",
+      "timestamp": "timestamp"
+    },
+    "SupportMessage": {
+      "senderId": "string",
+      "message": "string",
+      "isAdmin": "boolean",
+      "timestamp": "timestamp"
+    }
+  },
+
+  "security_rules": {
+    "note": "Paste into Firebase Console → Firestore → Rules",
+    "rules": "rules_version = '2'; service cloud.firestore { match /databases/{database}/documents { match /users/{userId} { allow read, write: if request.auth != null && request.auth.uid == userId; } match /products/{productId} { allow read: if true; allow write: if request.auth != null && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin'; } match /orders/{orderId} { allow read: if request.auth != null && (resource.data.userId == request.auth.uid || get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin'); allow create: if request.auth != null; allow update: if request.auth != null; } match /cart/{userId} { allow read, write: if request.auth != null && request.auth.uid == userId; } match /wishlist/{userId} { allow read, write: if request.auth != null && request.auth.uid == userId; } match /reviews/{reviewId} { allow read: if true; allow create: if request.auth != null; allow update, delete: if request.auth != null && (resource.data.userId == request.auth.uid || get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin'); } match /categories/{categoryId} { allow read: if true; allow write: if request.auth != null && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin'; } match /banners/{bannerId} { allow read: if true; allow write: if request.auth != null && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin'; } match /coupons/{couponId} { allow read: if request.auth != null; allow write: if request.auth != null && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin'; } match /notifications/{notificationId} { allow read, write: if request.auth != null && resource.data.userId == request.auth.uid; } } }"
+  }
+}
