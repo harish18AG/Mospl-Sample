@@ -1,0 +1,12 @@
+import { Router } from 'express';
+import { body } from 'express-validator';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { validate } from '../middleware/validationMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/wishlistController.js';
+const router = Router();
+router.use(authenticate);
+router.get('/:userId', asyncHandler(c.getWishlist));
+router.post('/add', [body('userId').notEmpty(), body('productId').notEmpty()], validate, asyncHandler(c.addWishlist));
+router.delete('/remove/:productId', asyncHandler(c.removeWishlist));
+export default router;

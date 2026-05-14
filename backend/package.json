@@ -1,0 +1,30 @@
+{
+  "name": "mospl-backend",
+  "version": "1.0.0",
+  "description": "Production-grade MOSPL premium leather e-commerce REST API with Firebase and Razorpay test payments",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "check": "node --check src/server.js && node --check src/app.js",
+    "seed:products": "node src/seed/seedProducts.js",
+    "seed:categories": "node src/seed/seedCategories.js",
+    "seed:admin": "node src/seed/seedAdmin.js",
+    "seed": "npm run seed:categories && npm run seed:products && npm run seed:admin"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-rate-limit": "^7.4.1",
+    "express-validator": "^7.2.0",
+    "firebase-admin": "^12.6.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "razorpay": "^2.9.5"
+  }
+}

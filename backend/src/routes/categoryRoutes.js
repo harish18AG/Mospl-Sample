@@ -1,0 +1,13 @@
+import { Router } from 'express';
+import { body } from 'express-validator';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { requireAdmin } from '../middleware/adminMiddleware.js';
+import { validate } from '../middleware/validationMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/categoryController.js';
+const router = Router();
+router.get('/', asyncHandler(c.listCategories));
+router.post('/', authenticate, requireAdmin, [body('name').notEmpty()], validate, asyncHandler(c.createCategory));
+router.put('/:id', authenticate, requireAdmin, asyncHandler(c.updateCategory));
+router.delete('/:id', authenticate, requireAdmin, asyncHandler(c.deleteCategory));
+export default router;

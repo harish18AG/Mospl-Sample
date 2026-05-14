@@ -1,0 +1,12 @@
+import { Router } from 'express';
+import { body } from 'express-validator';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { requireAdmin } from '../middleware/adminMiddleware.js';
+import { validate } from '../middleware/validationMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/reviewController.js';
+const router = Router();
+router.get('/product/:productId', asyncHandler(c.productReviews));
+router.post('/', authenticate, [body('productId').notEmpty(), body('rating').isFloat({ min: 1, max: 5 })], validate, asyncHandler(c.createReview));
+router.put('/moderate/:reviewId', authenticate, requireAdmin, asyncHandler(c.moderateReview));
+export default router;

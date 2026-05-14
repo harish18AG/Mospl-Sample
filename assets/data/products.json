@@ -1,0 +1,4874 @@
+[
+  {
+    "id": "jacket-01",
+    "category": "Leather Jackets",
+    "name": "MOSPL Heritage Jacket 01",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Jacket 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 13699,
+    "offerPrice": 12329,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 17,
+    "colors": [
+      "Coffee",
+      "Tan Brown",
+      "Matte Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-02",
+    "category": "Leather Jackets",
+    "name": "MOSPL Executive Jacket 02",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Jacket 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8599,
+    "offerPrice": 6879,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 51,
+    "colors": [
+      "Burgundy",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-03",
+    "category": "Leather Jackets",
+    "name": "MOSPL Signature Jacket 03",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Jacket 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 9599,
+    "offerPrice": 7199,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.3,
+    "stockCount": 36,
+    "colors": [
+      "Matte Black",
+      "Cognac",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-04",
+    "category": "Leather Jackets",
+    "name": "MOSPL Artisan Jacket 04",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Jacket 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 13599,
+    "offerPrice": 11151,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.7,
+    "stockCount": 69,
+    "colors": [
+      "Matte Black",
+      "Burgundy",
+      "Coffee"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-05",
+    "category": "Leather Jackets",
+    "name": "MOSPL Regal Jacket 05",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Jacket 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 13299,
+    "offerPrice": 11703,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.4,
+    "stockCount": 37,
+    "colors": [
+      "Dark Chocolate",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-06",
+    "category": "Leather Jackets",
+    "name": "MOSPL Classic Jacket 06",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Jacket 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 10299,
+    "offerPrice": 8754,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 29,
+    "colors": [
+      "Dark Chocolate",
+      "Cognac",
+      "Matte Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-07",
+    "category": "Leather Jackets",
+    "name": "MOSPL Urban Jacket 07",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Jacket 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3199,
+    "offerPrice": 2719,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 11,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-08",
+    "category": "Leather Jackets",
+    "name": "MOSPL Voyager Jacket 08",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Jacket 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8299,
+    "offerPrice": 7469,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.7,
+    "stockCount": 56,
+    "colors": [
+      "Burgundy",
+      "Coffee",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-09",
+    "category": "Leather Jackets",
+    "name": "MOSPL Couture Jacket 09",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Jacket 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6099,
+    "offerPrice": 5489,
+    "discountPercentage": 10,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 35,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-10",
+    "category": "Leather Jackets",
+    "name": "MOSPL Legacy Jacket 10",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Jacket 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8999,
+    "offerPrice": 7649,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.9,
+    "stockCount": 46,
+    "colors": [
+      "Cognac",
+      "Dark Chocolate",
+      "Matte Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-11",
+    "category": "Leather Jackets",
+    "name": "MOSPL Monarch Jacket 11",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Jacket 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 10399,
+    "offerPrice": 7279,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 77,
+    "colors": [
+      "Tan Brown",
+      "Coffee",
+      "Cognac"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "jacket-12",
+    "category": "Leather Jackets",
+    "name": "MOSPL Reserve Jacket 12",
+    "shortDescription": "Premium full-grain leather jacket with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Jacket 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 7399,
+    "offerPrice": 5549,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.9,
+    "stockCount": 43,
+    "colors": [
+      "Coffee",
+      "Tan Brown",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-01",
+    "category": "Leather Bags",
+    "name": "MOSPL Heritage Bag 01",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Bag 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8699,
+    "offerPrice": 6524,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.1,
+    "stockCount": 42,
+    "colors": [
+      "Matte Black",
+      "Burgundy",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-02",
+    "category": "Leather Bags",
+    "name": "MOSPL Executive Bag 02",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Bag 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4099,
+    "offerPrice": 2869,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.5,
+    "stockCount": 14,
+    "colors": [
+      "Burgundy",
+      "Cognac",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-03",
+    "category": "Leather Bags",
+    "name": "MOSPL Signature Bag 03",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Bag 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 5099,
+    "offerPrice": 4079,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.5,
+    "stockCount": 26,
+    "colors": [
+      "Coffee",
+      "Tan Brown",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-04",
+    "category": "Leather Bags",
+    "name": "MOSPL Artisan Bag 04",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Bag 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8499,
+    "offerPrice": 7224,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.7,
+    "stockCount": 12,
+    "colors": [
+      "Tan Brown",
+      "Burgundy",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-05",
+    "category": "Leather Bags",
+    "name": "MOSPL Regal Bag 05",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Bag 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8299,
+    "offerPrice": 6224,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 41,
+    "colors": [
+      "Tan Brown",
+      "Coffee",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-06",
+    "category": "Leather Bags",
+    "name": "MOSPL Classic Bag 06",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Bag 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1999,
+    "offerPrice": 1799,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 80,
+    "colors": [
+      "Matte Black",
+      "Tan Brown",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-07",
+    "category": "Leather Bags",
+    "name": "MOSPL Urban Bag 07",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Bag 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 7599,
+    "offerPrice": 5699,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.7,
+    "stockCount": 27,
+    "colors": [
+      "Cognac",
+      "Coffee",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-08",
+    "category": "Leather Bags",
+    "name": "MOSPL Voyager Bag 08",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Bag 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 7999,
+    "offerPrice": 6399,
+    "discountPercentage": 20,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 85,
+    "colors": [
+      "Dark Chocolate",
+      "Burgundy",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-09",
+    "category": "Leather Bags",
+    "name": "MOSPL Couture Bag 09",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Bag 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 9299,
+    "offerPrice": 6974,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 88,
+    "colors": [
+      "Dark Chocolate",
+      "Coffee",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-10",
+    "category": "Leather Bags",
+    "name": "MOSPL Legacy Bag 10",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Bag 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4299,
+    "offerPrice": 3783,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 32,
+    "colors": [
+      "Burgundy",
+      "Tan Brown",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-11",
+    "category": "Leather Bags",
+    "name": "MOSPL Monarch Bag 11",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Bag 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2599,
+    "offerPrice": 2209,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.6,
+    "stockCount": 42,
+    "colors": [
+      "Burgundy",
+      "Coffee",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "bag-12",
+    "category": "Leather Bags",
+    "name": "MOSPL Reserve Bag 12",
+    "shortDescription": "Premium full-grain leather bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Bag 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3499,
+    "offerPrice": 2799,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.1,
+    "stockCount": 55,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-01",
+    "category": "Wallets",
+    "name": "MOSPL Heritage Wallet 01",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Wallet 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1799,
+    "offerPrice": 1349,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.3,
+    "stockCount": 82,
+    "colors": [
+      "Burgundy",
+      "Cognac",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-02",
+    "category": "Wallets",
+    "name": "MOSPL Executive Wallet 02",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Wallet 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1799,
+    "offerPrice": 1619,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.8,
+    "stockCount": 38,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-03",
+    "category": "Wallets",
+    "name": "MOSPL Signature Wallet 03",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Wallet 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2599,
+    "offerPrice": 2131,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.4,
+    "stockCount": 41,
+    "colors": [
+      "Tan Brown",
+      "Cognac",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-04",
+    "category": "Wallets",
+    "name": "MOSPL Artisan Wallet 04",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Wallet 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2299,
+    "offerPrice": 2069,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.9,
+    "stockCount": 16,
+    "colors": [
+      "Matte Black",
+      "Tan Brown",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-05",
+    "category": "Wallets",
+    "name": "MOSPL Regal Wallet 05",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Wallet 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2499,
+    "offerPrice": 2124,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 65,
+    "colors": [
+      "Matte Black",
+      "Cognac",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-06",
+    "category": "Wallets",
+    "name": "MOSPL Classic Wallet 06",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Wallet 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 499,
+    "offerPrice": 374,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 47,
+    "colors": [
+      "Dark Chocolate",
+      "Burgundy",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-07",
+    "category": "Wallets",
+    "name": "MOSPL Urban Wallet 07",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Wallet 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1299,
+    "offerPrice": 909,
+    "discountPercentage": 30,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 68,
+    "colors": [
+      "Tan Brown",
+      "Cognac",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-08",
+    "category": "Wallets",
+    "name": "MOSPL Voyager Wallet 08",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Wallet 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1699,
+    "offerPrice": 1495,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 53,
+    "colors": [
+      "Dark Chocolate",
+      "Cognac",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-09",
+    "category": "Wallets",
+    "name": "MOSPL Couture Wallet 09",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Wallet 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2599,
+    "offerPrice": 2339,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 82,
+    "colors": [
+      "Cognac",
+      "Burgundy",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-10",
+    "category": "Wallets",
+    "name": "MOSPL Legacy Wallet 10",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Wallet 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1699,
+    "offerPrice": 1393,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.2,
+    "stockCount": 78,
+    "colors": [
+      "Matte Black",
+      "Burgundy",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-11",
+    "category": "Wallets",
+    "name": "MOSPL Monarch Wallet 11",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Wallet 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 799,
+    "offerPrice": 639,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.5,
+    "stockCount": 22,
+    "colors": [
+      "Coffee",
+      "Burgundy",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "wallet-12",
+    "category": "Wallets",
+    "name": "MOSPL Reserve Wallet 12",
+    "shortDescription": "Premium full-grain leather wallet with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Wallet 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1499,
+    "offerPrice": 1199,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.7,
+    "stockCount": 83,
+    "colors": [
+      "Tan Brown",
+      "Coffee",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-01",
+    "category": "Belts",
+    "name": "MOSPL Heritage Belt 01",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Belt 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 799,
+    "offerPrice": 719,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.3,
+    "stockCount": 61,
+    "colors": [
+      "Tan Brown",
+      "Burgundy",
+      "Coffee"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-02",
+    "category": "Belts",
+    "name": "MOSPL Executive Belt 02",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Belt 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2699,
+    "offerPrice": 2294,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.5,
+    "stockCount": 41,
+    "colors": [
+      "Matte Black",
+      "Dark Chocolate",
+      "Cognac"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-03",
+    "category": "Belts",
+    "name": "MOSPL Signature Belt 03",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Belt 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1399,
+    "offerPrice": 1231,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 75,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-04",
+    "category": "Belts",
+    "name": "MOSPL Artisan Belt 04",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Belt 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1699,
+    "offerPrice": 1393,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 51,
+    "colors": [
+      "Burgundy",
+      "Coffee",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-05",
+    "category": "Belts",
+    "name": "MOSPL Regal Belt 05",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Belt 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3099,
+    "offerPrice": 2479,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 27,
+    "colors": [
+      "Coffee",
+      "Tan Brown",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-06",
+    "category": "Belts",
+    "name": "MOSPL Classic Belt 06",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Belt 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2299,
+    "offerPrice": 1954,
+    "discountPercentage": 15,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.7,
+    "stockCount": 72,
+    "colors": [
+      "Dark Chocolate",
+      "Coffee",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-07",
+    "category": "Belts",
+    "name": "MOSPL Urban Belt 07",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Belt 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2599,
+    "offerPrice": 2131,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 21,
+    "colors": [
+      "Matte Black",
+      "Tan Brown",
+      "Coffee"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-08",
+    "category": "Belts",
+    "name": "MOSPL Voyager Belt 08",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Belt 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 999,
+    "offerPrice": 819,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 25,
+    "colors": [
+      "Burgundy",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-09",
+    "category": "Belts",
+    "name": "MOSPL Couture Belt 09",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Belt 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1599,
+    "offerPrice": 1359,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.1,
+    "stockCount": 41,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-10",
+    "category": "Belts",
+    "name": "MOSPL Legacy Belt 10",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Belt 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3099,
+    "offerPrice": 2541,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.5,
+    "stockCount": 22,
+    "colors": [
+      "Dark Chocolate",
+      "Burgundy",
+      "Cognac"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-11",
+    "category": "Belts",
+    "name": "MOSPL Monarch Belt 11",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Belt 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1899,
+    "offerPrice": 1709,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.7,
+    "stockCount": 55,
+    "colors": [
+      "Dark Chocolate",
+      "Burgundy",
+      "Cognac"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "belt-12",
+    "category": "Belts",
+    "name": "MOSPL Reserve Belt 12",
+    "shortDescription": "Premium full-grain leather belt with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Belt 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 999,
+    "offerPrice": 699,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 13,
+    "colors": [
+      "Cognac",
+      "Coffee",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-01",
+    "category": "Shoes",
+    "name": "MOSPL Heritage Shoe 01",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Shoe 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4999,
+    "offerPrice": 4499,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.5,
+    "stockCount": 71,
+    "colors": [
+      "Burgundy",
+      "Matte Black",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-02",
+    "category": "Shoes",
+    "name": "MOSPL Executive Shoe 02",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Shoe 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 5399,
+    "offerPrice": 4319,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 9,
+    "colors": [
+      "Coffee",
+      "Tan Brown",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-03",
+    "category": "Shoes",
+    "name": "MOSPL Signature Shoe 03",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Shoe 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8799,
+    "offerPrice": 7479,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 37,
+    "colors": [
+      "Dark Chocolate",
+      "Matte Black",
+      "Coffee"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-04",
+    "category": "Shoes",
+    "name": "MOSPL Artisan Shoe 04",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Shoe 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 5699,
+    "offerPrice": 4844,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.9,
+    "stockCount": 66,
+    "colors": [
+      "Burgundy",
+      "Matte Black",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-05",
+    "category": "Shoes",
+    "name": "MOSPL Regal Shoe 05",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Shoe 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8299,
+    "offerPrice": 7469,
+    "discountPercentage": 10,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.1,
+    "stockCount": 32,
+    "colors": [
+      "Cognac",
+      "Burgundy",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-06",
+    "category": "Shoes",
+    "name": "MOSPL Classic Shoe 06",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Shoe 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3899,
+    "offerPrice": 2729,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 39,
+    "colors": [
+      "Matte Black",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-07",
+    "category": "Shoes",
+    "name": "MOSPL Urban Shoe 07",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Shoe 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8399,
+    "offerPrice": 7391,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.1,
+    "stockCount": 71,
+    "colors": [
+      "Matte Black",
+      "Tan Brown",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-08",
+    "category": "Shoes",
+    "name": "MOSPL Voyager Shoe 08",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Shoe 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3999,
+    "offerPrice": 2799,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.9,
+    "stockCount": 9,
+    "colors": [
+      "Cognac",
+      "Coffee",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-09",
+    "category": "Shoes",
+    "name": "MOSPL Couture Shoe 09",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Shoe 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3099,
+    "offerPrice": 2634,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.6,
+    "stockCount": 49,
+    "colors": [
+      "Tan Brown",
+      "Dark Chocolate",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-10",
+    "category": "Shoes",
+    "name": "MOSPL Legacy Shoe 10",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Shoe 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4599,
+    "offerPrice": 3219,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.3,
+    "stockCount": 11,
+    "colors": [
+      "Cognac",
+      "Dark Chocolate",
+      "Coffee"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-11",
+    "category": "Shoes",
+    "name": "MOSPL Monarch Shoe 11",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Shoe 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1999,
+    "offerPrice": 1759,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 12,
+    "colors": [
+      "Dark Chocolate",
+      "Matte Black",
+      "Burgundy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "shoe-12",
+    "category": "Shoes",
+    "name": "MOSPL Reserve Shoe 12",
+    "shortDescription": "Premium full-grain leather shoe with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Shoe 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4099,
+    "offerPrice": 3279,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 53,
+    "colors": [
+      "Cognac",
+      "Dark Chocolate",
+      "Coffee"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "Custom"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-01",
+    "category": "Watches",
+    "name": "MOSPL Heritage Watch 01",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Watch 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4799,
+    "offerPrice": 3599,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 77,
+    "colors": [
+      "Dark Chocolate",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-02",
+    "category": "Watches",
+    "name": "MOSPL Executive Watch 02",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Watch 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4199,
+    "offerPrice": 3569,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 62,
+    "colors": [
+      "Tan Brown",
+      "Dark Chocolate",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-03",
+    "category": "Watches",
+    "name": "MOSPL Signature Watch 03",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Watch 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2199,
+    "offerPrice": 1649,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 87,
+    "colors": [
+      "Burgundy",
+      "Cognac",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-04",
+    "category": "Watches",
+    "name": "MOSPL Artisan Watch 04",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Watch 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6999,
+    "offerPrice": 5739,
+    "discountPercentage": 18,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.7,
+    "stockCount": 37,
+    "colors": [
+      "Tan Brown",
+      "Coffee",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-05",
+    "category": "Watches",
+    "name": "MOSPL Regal Watch 05",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Watch 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6899,
+    "offerPrice": 5174,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 19,
+    "colors": [
+      "Burgundy",
+      "Dark Chocolate",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-06",
+    "category": "Watches",
+    "name": "MOSPL Classic Watch 06",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Watch 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 7499,
+    "offerPrice": 5624,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 9,
+    "colors": [
+      "Dark Chocolate",
+      "Cognac",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-07",
+    "category": "Watches",
+    "name": "MOSPL Urban Watch 07",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Watch 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 5199,
+    "offerPrice": 3899,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.7,
+    "stockCount": 37,
+    "colors": [
+      "Coffee",
+      "Dark Chocolate",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-08",
+    "category": "Watches",
+    "name": "MOSPL Voyager Watch 08",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Watch 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3699,
+    "offerPrice": 3033,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.5,
+    "stockCount": 30,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-09",
+    "category": "Watches",
+    "name": "MOSPL Couture Watch 09",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Watch 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2499,
+    "offerPrice": 2199,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.8,
+    "stockCount": 30,
+    "colors": [
+      "Burgundy",
+      "Coffee",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-10",
+    "category": "Watches",
+    "name": "MOSPL Legacy Watch 10",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Watch 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4399,
+    "offerPrice": 3079,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 22,
+    "colors": [
+      "Cognac",
+      "Tan Brown",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-11",
+    "category": "Watches",
+    "name": "MOSPL Monarch Watch 11",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Watch 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4699,
+    "offerPrice": 3759,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.7,
+    "stockCount": 80,
+    "colors": [
+      "Burgundy",
+      "Coffee",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "watch-12",
+    "category": "Watches",
+    "name": "MOSPL Reserve Watch 12",
+    "shortDescription": "Premium full-grain leather watch with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Watch 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1899,
+    "offerPrice": 1671,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 47,
+    "colors": [
+      "Dark Chocolate",
+      "Matte Black",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-01",
+    "category": "Travel Bags",
+    "name": "MOSPL Heritage Travel Bag 01",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Travel Bag 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 9499,
+    "offerPrice": 8549,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 33,
+    "colors": [
+      "Cognac",
+      "Tan Brown",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-02",
+    "category": "Travel Bags",
+    "name": "MOSPL Executive Travel Bag 02",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Travel Bag 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 7499,
+    "offerPrice": 5249,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 18,
+    "colors": [
+      "Matte Black",
+      "Coffee",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-03",
+    "category": "Travel Bags",
+    "name": "MOSPL Signature Travel Bag 03",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Travel Bag 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6399,
+    "offerPrice": 5247,
+    "discountPercentage": 18,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 48,
+    "colors": [
+      "Burgundy",
+      "Tan Brown",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-04",
+    "category": "Travel Bags",
+    "name": "MOSPL Artisan Travel Bag 04",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Travel Bag 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6399,
+    "offerPrice": 5439,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 87,
+    "colors": [
+      "Coffee",
+      "Tan Brown",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-05",
+    "category": "Travel Bags",
+    "name": "MOSPL Regal Travel Bag 05",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Travel Bag 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 9599,
+    "offerPrice": 6719,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 19,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-06",
+    "category": "Travel Bags",
+    "name": "MOSPL Classic Travel Bag 06",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Travel Bag 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6299,
+    "offerPrice": 5669,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.8,
+    "stockCount": 19,
+    "colors": [
+      "Dark Chocolate",
+      "Matte Black",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-07",
+    "category": "Travel Bags",
+    "name": "MOSPL Urban Travel Bag 07",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Travel Bag 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 5899,
+    "offerPrice": 4424,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.7,
+    "stockCount": 33,
+    "colors": [
+      "Dark Chocolate",
+      "Tan Brown",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-08",
+    "category": "Travel Bags",
+    "name": "MOSPL Voyager Travel Bag 08",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Travel Bag 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8999,
+    "offerPrice": 7649,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.5,
+    "stockCount": 75,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-09",
+    "category": "Travel Bags",
+    "name": "MOSPL Couture Travel Bag 09",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Travel Bag 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8099,
+    "offerPrice": 5669,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 15,
+    "colors": [
+      "Burgundy",
+      "Tan Brown",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-10",
+    "category": "Travel Bags",
+    "name": "MOSPL Legacy Travel Bag 10",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Travel Bag 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8099,
+    "offerPrice": 6884,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 53,
+    "colors": [
+      "Coffee",
+      "Dark Chocolate",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-11",
+    "category": "Travel Bags",
+    "name": "MOSPL Monarch Travel Bag 11",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Travel Bag 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4599,
+    "offerPrice": 3909,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 41,
+    "colors": [
+      "Matte Black",
+      "Coffee",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "travel-bag-12",
+    "category": "Travel Bags",
+    "name": "MOSPL Reserve Travel Bag 12",
+    "shortDescription": "Premium full-grain leather travel bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Travel Bag 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6799,
+    "offerPrice": 4759,
+    "discountPercentage": 30,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 13,
+    "colors": [
+      "Dark Chocolate",
+      "Tan Brown",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-01",
+    "category": "Office Bags",
+    "name": "MOSPL Heritage Office Bag 01",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Office Bag 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 5399,
+    "offerPrice": 4859,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 86,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-02",
+    "category": "Office Bags",
+    "name": "MOSPL Executive Office Bag 02",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Office Bag 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8399,
+    "offerPrice": 7139,
+    "discountPercentage": 15,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 19,
+    "colors": [
+      "Burgundy",
+      "Dark Chocolate",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-03",
+    "category": "Office Bags",
+    "name": "MOSPL Signature Office Bag 03",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Office Bag 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3899,
+    "offerPrice": 3509,
+    "discountPercentage": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 21,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-04",
+    "category": "Office Bags",
+    "name": "MOSPL Artisan Office Bag 04",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Office Bag 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2799,
+    "offerPrice": 1959,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 30,
+    "colors": [
+      "Tan Brown",
+      "Burgundy",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-05",
+    "category": "Office Bags",
+    "name": "MOSPL Regal Office Bag 05",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Office Bag 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6499,
+    "offerPrice": 4874,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.6,
+    "stockCount": 22,
+    "colors": [
+      "Coffee",
+      "Burgundy",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-06",
+    "category": "Office Bags",
+    "name": "MOSPL Classic Office Bag 06",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Office Bag 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6399,
+    "offerPrice": 4479,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.4,
+    "stockCount": 46,
+    "colors": [
+      "Cognac",
+      "Coffee",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-07",
+    "category": "Office Bags",
+    "name": "MOSPL Urban Office Bag 07",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Office Bag 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 5999,
+    "offerPrice": 5279,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.5,
+    "stockCount": 48,
+    "colors": [
+      "Matte Black",
+      "Dark Chocolate",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-08",
+    "category": "Office Bags",
+    "name": "MOSPL Voyager Office Bag 08",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Office Bag 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 8699,
+    "offerPrice": 6524,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 25,
+    "colors": [
+      "Matte Black",
+      "Coffee",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-09",
+    "category": "Office Bags",
+    "name": "MOSPL Couture Office Bag 09",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Office Bag 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 6799,
+    "offerPrice": 5983,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 73,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-10",
+    "category": "Office Bags",
+    "name": "MOSPL Legacy Office Bag 10",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Office Bag 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2599,
+    "offerPrice": 1949,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.7,
+    "stockCount": 81,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-11",
+    "category": "Office Bags",
+    "name": "MOSPL Monarch Office Bag 11",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Office Bag 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 3299,
+    "offerPrice": 2639,
+    "discountPercentage": 20,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 11,
+    "colors": [
+      "Coffee",
+      "Dark Chocolate",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "office-bag-12",
+    "category": "Office Bags",
+    "name": "MOSPL Reserve Office Bag 12",
+    "shortDescription": "Premium full-grain leather office bag with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Office Bag 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2699,
+    "offerPrice": 2294,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 40,
+    "colors": [
+      "Matte Black",
+      "Dark Chocolate",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-01",
+    "category": "Accessories",
+    "name": "MOSPL Heritage Leather Accessory 01",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Leather Accessory 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1699,
+    "offerPrice": 1274,
+    "discountPercentage": 25,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.4,
+    "stockCount": 23,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-02",
+    "category": "Accessories",
+    "name": "MOSPL Executive Leather Accessory 02",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Leather Accessory 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1599,
+    "offerPrice": 1359,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 50,
+    "colors": [
+      "Dark Chocolate",
+      "Matte Black",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-03",
+    "category": "Accessories",
+    "name": "MOSPL Signature Leather Accessory 03",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Leather Accessory 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4299,
+    "offerPrice": 3654,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 38,
+    "colors": [
+      "Tan Brown",
+      "Burgundy",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-04",
+    "category": "Accessories",
+    "name": "MOSPL Artisan Leather Accessory 04",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Leather Accessory 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4499,
+    "offerPrice": 3374,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.5,
+    "stockCount": 45,
+    "colors": [
+      "Cognac",
+      "Matte Black",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-05",
+    "category": "Accessories",
+    "name": "MOSPL Regal Leather Accessory 05",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Leather Accessory 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 2299,
+    "offerPrice": 2023,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.7,
+    "stockCount": 66,
+    "colors": [
+      "Burgundy",
+      "Coffee",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-06",
+    "category": "Accessories",
+    "name": "MOSPL Classic Leather Accessory 06",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Leather Accessory 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4399,
+    "offerPrice": 3519,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.7,
+    "stockCount": 23,
+    "colors": [
+      "Matte Black",
+      "Burgundy",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-07",
+    "category": "Accessories",
+    "name": "MOSPL Urban Leather Accessory 07",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Leather Accessory 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 4199,
+    "offerPrice": 3149,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 33,
+    "colors": [
+      "Cognac",
+      "Burgundy",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-08",
+    "category": "Accessories",
+    "name": "MOSPL Voyager Leather Accessory 08",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Leather Accessory 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1899,
+    "offerPrice": 1614,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 30,
+    "colors": [
+      "Cognac",
+      "Dark Chocolate",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-09",
+    "category": "Accessories",
+    "name": "MOSPL Couture Leather Accessory 09",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Leather Accessory 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1599,
+    "offerPrice": 1359,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.5,
+    "stockCount": 26,
+    "colors": [
+      "Burgundy",
+      "Cognac",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-10",
+    "category": "Accessories",
+    "name": "MOSPL Legacy Leather Accessory 10",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Leather Accessory 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 1199,
+    "offerPrice": 1019,
+    "discountPercentage": 15,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 62,
+    "colors": [
+      "Tan Brown",
+      "Dark Chocolate",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-11",
+    "category": "Accessories",
+    "name": "MOSPL Monarch Leather Accessory 11",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Leather Accessory 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 699,
+    "offerPrice": 524,
+    "discountPercentage": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 71,
+    "colors": [
+      "Cognac",
+      "Tan Brown",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "leather-accessory-12",
+    "category": "Accessories",
+    "name": "MOSPL Reserve Leather Accessory 12",
+    "shortDescription": "Premium full-grain leather leather accessory with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Leather Accessory 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 799,
+    "offerPrice": 655,
+    "discountPercentage": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 19,
+    "colors": [
+      "Dark Chocolate",
+      "Matte Black",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-01",
+    "category": "Premium Collections",
+    "name": "MOSPL Heritage Premium Leather 01",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Heritage Premium Leather 01 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 9899,
+    "offerPrice": 7919,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 71,
+    "colors": [
+      "Dark Chocolate",
+      "Cognac",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-02",
+    "category": "Premium Collections",
+    "name": "MOSPL Executive Premium Leather 02",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Executive Premium Leather 02 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 19099,
+    "offerPrice": 15279,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 86,
+    "colors": [
+      "Burgundy",
+      "Matte Black",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-03",
+    "category": "Premium Collections",
+    "name": "MOSPL Signature Premium Leather 03",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Signature Premium Leather 03 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 10299,
+    "offerPrice": 9063,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.7,
+    "stockCount": 19,
+    "colors": [
+      "Tan Brown",
+      "Matte Black",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-04",
+    "category": "Premium Collections",
+    "name": "MOSPL Artisan Premium Leather 04",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Artisan Premium Leather 04 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 17299,
+    "offerPrice": 13839,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.4,
+    "stockCount": 55,
+    "colors": [
+      "Cognac",
+      "Burgundy",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-05",
+    "category": "Premium Collections",
+    "name": "MOSPL Regal Premium Leather 05",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Regal Premium Leather 05 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 11499,
+    "offerPrice": 9199,
+    "discountPercentage": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+    ],
+    "rating": 4.2,
+    "stockCount": 90,
+    "colors": [
+      "Cognac",
+      "Matte Black",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-06",
+    "category": "Premium Collections",
+    "name": "MOSPL Classic Premium Leather 06",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Classic Premium Leather 06 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 24699,
+    "offerPrice": 17289,
+    "discountPercentage": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.9,
+    "stockCount": 89,
+    "colors": [
+      "Cognac",
+      "Burgundy",
+      "Dark Chocolate"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-07",
+    "category": "Premium Collections",
+    "name": "MOSPL Urban Premium Leather 07",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Urban Premium Leather 07 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 10099,
+    "offerPrice": 8584,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 51,
+    "colors": [
+      "Dark Chocolate",
+      "Burgundy",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-08",
+    "category": "Premium Collections",
+    "name": "MOSPL Voyager Premium Leather 08",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Voyager Premium Leather 08 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 23399,
+    "offerPrice": 20591,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.8,
+    "stockCount": 72,
+    "colors": [
+      "Dark Chocolate",
+      "Burgundy",
+      "Coffee"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-09",
+    "category": "Premium Collections",
+    "name": "MOSPL Couture Premium Leather 09",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Couture Premium Leather 09 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 7199,
+    "offerPrice": 5759,
+    "discountPercentage": 20,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.2,
+    "stockCount": 14,
+    "colors": [
+      "Coffee",
+      "Tan Brown",
+      "Cognac"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-10",
+    "category": "Premium Collections",
+    "name": "MOSPL Legacy Premium Leather 10",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Legacy Premium Leather 10 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 21499,
+    "offerPrice": 18919,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.3,
+    "stockCount": 83,
+    "colors": [
+      "Coffee",
+      "Cognac",
+      "Burgundy"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-11",
+    "category": "Premium Collections",
+    "name": "MOSPL Monarch Premium Leather 11",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Monarch Premium Leather 11 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 18799,
+    "offerPrice": 15979,
+    "discountPercentage": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rating": 4.6,
+    "stockCount": 63,
+    "colors": [
+      "Burgundy",
+      "Cognac",
+      "Tan Brown"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "premium-leather-12",
+    "category": "Premium Collections",
+    "name": "MOSPL Reserve Premium Leather 12",
+    "shortDescription": "Premium full-grain leather premium leather with refined MOSPL finish.",
+    "longDescription": "MOSPL Reserve Premium Leather 12 is crafted for modern Indian luxury shoppers using carefully selected leather, reinforced stitching, smooth hardware, and a balanced silhouette suitable for work, travel, gifting, and elevated everyday wear.",
+    "price": 17699,
+    "offerPrice": 15575,
+    "discountPercentage": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+    ],
+    "rating": 4.3,
+    "stockCount": 70,
+    "colors": [
+      "Cognac",
+      "Burgundy",
+      "Matte Black"
+    ],
+    "sizes": [
+      "One Size",
+      "Compact",
+      "Large"
+    ],
+    "deliveryInfo": "Free insured delivery in 3-6 business days across India. Easy 7-day returns.",
+    "reviews": [
+      {
+        "user": "Aarav",
+        "comment": "Elegant finish and premium feel. Packaging was excellent.",
+        "rating": 4.8
+      },
+      {
+        "user": "Meera",
+        "comment": "Worth the price and looks better than the photos.",
+        "rating": 4.6
+      }
+    ]
+  }
+]

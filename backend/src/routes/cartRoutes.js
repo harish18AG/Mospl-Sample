@@ -1,0 +1,14 @@
+import { Router } from 'express';
+import { body } from 'express-validator';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { validate } from '../middleware/validationMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/cartController.js';
+const router = Router();
+router.use(authenticate);
+router.get('/:userId', asyncHandler(c.getCart));
+router.post('/add', [body('userId').notEmpty(), body('productId').notEmpty()], validate, asyncHandler(c.addToCart));
+router.put('/update', [body('userId').notEmpty(), body('productId').notEmpty(), body('quantity').isInt({ min: 1 })], validate, asyncHandler(c.updateCart));
+router.delete('/remove/:productId', asyncHandler(c.removeFromCart));
+router.delete('/clear/:userId', asyncHandler(c.clearCart));
+export default router;
