@@ -1,0 +1,15 @@
+import { Router } from 'express';
+import { body } from 'express-validator';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { validate } from '../middleware/validationMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/paymentController.js';
+const router = Router();
+router.use(authenticate);
+router.post('/create-order', [body('orderId').notEmpty()], validate, asyncHandler(c.createPaymentOrder));
+router.post('/verify', [body('orderId').notEmpty(), body('razorpayOrderId').notEmpty(), body('razorpayPaymentId').notEmpty(), body('razorpaySignature').notEmpty()], validate, asyncHandler(c.verifyPayment));
+router.post('/failed', asyncHandler(c.failedPayment));
+router.get('/history/:userId', asyncHandler(c.paymentHistory));
+router.post('/refund', [body('razorpayPaymentId').notEmpty(), body('orderId').notEmpty()], validate, asyncHandler(c.refundPayment));
+router.get('/invoice/:orderId', asyncHandler(c.invoice));
+export default router;

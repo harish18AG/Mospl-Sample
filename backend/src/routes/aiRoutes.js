@@ -1,0 +1,11 @@
+import { Router } from 'express';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { requireAdmin } from '../middleware/adminMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/aiController.js';
+const router = Router();
+router.get('/recommendations/:userId', authenticate, asyncHandler(c.recommendations));
+router.post('/chatbot', authenticate, asyncHandler(c.chatbot));
+router.get('/smart-search', authenticate, asyncHandler(c.smartSearch));
+router.get('/admin-sales-insights', authenticate, requireAdmin, asyncHandler(c.adminSalesInsights));
+export default router;

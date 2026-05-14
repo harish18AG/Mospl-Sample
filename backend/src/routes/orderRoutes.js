@@ -1,0 +1,15 @@
+import { Router } from 'express';
+import { body } from 'express-validator';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { validate } from '../middleware/validationMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/orderController.js';
+const router = Router();
+router.use(authenticate);
+router.post('/create', [body('products').isArray({ min: 1 }), body('shippingAddress').isObject()], validate, asyncHandler(c.createOrder));
+router.get('/user/:userId', asyncHandler(c.userOrders));
+router.get('/:orderId', asyncHandler(c.getOrder));
+router.put('/status/:orderId', asyncHandler(c.updateOrderStatus));
+router.get('/tracking/:orderId', asyncHandler(c.orderTracking));
+router.post('/cancel/:orderId', asyncHandler(c.cancelOrder));
+export default router;

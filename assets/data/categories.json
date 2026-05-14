@@ -1,0 +1,62 @@
+[
+  {
+    "id": "leather-jackets",
+    "name": "Leather Jackets",
+    "productCount": 12,
+    "heroImage": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "leather-bags",
+    "name": "Leather Bags",
+    "productCount": 12,
+    "heroImage": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "wallets",
+    "name": "Wallets",
+    "productCount": 12,
+    "heroImage": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "belts",
+    "name": "Belts",
+    "productCount": 12,
+    "heroImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "shoes",
+    "name": "Shoes",
+    "productCount": 12,
+    "heroImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watches",
+    "name": "Watches",
+    "productCount": 12,
+    "heroImage": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "travel-bags",
+    "name": "Travel Bags",
+    "productCount": 12,
+    "heroImage": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "office-bags",
+    "name": "Office Bags",
+    "productCount": 12,
+    "heroImage": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=900"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "productCount": 12,
+    "heroImage": "https://cdn.pixabay.com/photo/2017/08/06/16/05/people-2592000_1280.jpg"
+  },
+  {
+    "id": "premium-collections",
+    "name": "Premium Collections",
+    "productCount": 12,
+    "heroImage": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+  }
+]

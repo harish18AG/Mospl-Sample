@@ -1,0 +1,10 @@
+import { Router } from 'express';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { requireAdmin } from '../middleware/adminMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/notificationController.js';
+const router = Router();
+router.get('/:userId', authenticate, asyncHandler(c.listNotifications));
+router.post('/', authenticate, requireAdmin, asyncHandler(c.createNotification));
+router.put('/read/:notificationId', authenticate, asyncHandler(c.markRead));
+export default router;

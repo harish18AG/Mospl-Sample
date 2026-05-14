@@ -1,0 +1,18 @@
+import { Router } from 'express';
+import { authenticate } from '../middleware/authMiddleware.js';
+import { requireAdmin } from '../middleware/adminMiddleware.js';
+import { asyncHandler } from '../utils/responseHandler.js';
+import * as c from '../controllers/adminController.js';
+const router = Router();
+router.use(authenticate, requireAdmin);
+router.get('/dashboard', asyncHandler(c.dashboard));
+router.get('/users', asyncHandler(c.users));
+router.put('/users/block/:userId', asyncHandler(c.blockUser));
+router.get('/orders', asyncHandler(c.orders));
+router.put('/orders/status/:orderId', asyncHandler(c.orderStatus));
+router.get('/sales', asyncHandler(c.sales));
+router.get('/revenue', asyncHandler(c.revenue));
+router.get('/low-stock', asyncHandler(c.lowStock));
+router.get('/analytics', asyncHandler(c.analytics));
+router.get('/profile', asyncHandler(c.adminProfile));
+export default router;
